@@ -1,11 +1,41 @@
 body{
-    background-color: rgba(170, 157, 255, 1), rgb(90, 74, 163);
+    background-image:linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163)) ;
 }
 div{
+    font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     width: 500px;
     height: 500px;
     border-radius: 5%;
     margin: auto;
     margin-top: 150px;
     background-color: rgba(35, 28, 45, 0.899) ;
+}
+h1{
+    font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(253, 253, 253);
+}
+.billtotal{
+    color: rgb(253, 253, 253);
+    padding-left: 40px;
+
+}
+.tip{
+    color: rgb(253, 253, 253);
+    padding-left: 40px;
+}
+.input{
+    height: 20px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgba(170, 157, 255, 0.222);
+    padding-left: 100px;
+}
+input:hover{
+    background-color: rgba(170, 157, 255, 0.429);
 }
