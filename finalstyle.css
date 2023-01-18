@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(170, 157, 255, 1), rgb(90, 74, 163);
+}
+div{
+    width: 500px;
+    height: 500px;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: rgba(35, 28, 45, 0.899) ;
+}
