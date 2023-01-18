@@ -23,19 +23,42 @@ h1{
 .billtotal{
     color: rgb(253, 253, 253);
     padding-left: 40px;
+    padding-top: 15px;
+    
 
 }
 .tip{
     color: rgb(253, 253, 253);
     padding-left: 40px;
+    
 }
 .input{
-    height: 20px;
-    width: 300px;
+    height: 25px;
+    width: 400px;
     border-radius: 10px;
     background-color: rgba(170, 157, 255, 0.222);
-    padding-left: 100px;
+    margin-left: 50px;
+    margin-top: 7px;
 }
 input:hover{
     background-color: rgba(170, 157, 255, 0.429);
+    
+}
+pre{
+    color: rgb(253, 253 ,253);
+    font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    padding-left: 40px;
+    padding-top: 40px;
+
+}
+.p2{
+    color: rgb(253, 253 ,253);
+    font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    padding-left: -20px;
+    
+
 }
